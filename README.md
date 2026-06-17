@@ -2,7 +2,7 @@
 
 ---
 
-Neo Controller adalah sebuah project IoT sederhana yang berfungsi untuk mengontrol lampu dengan modul esp32c3 secara wireless dengan menggunakan koneksi WiFi.
+Neo Controller adalah sebuah project IoT sederhana yang berfungsi untuk mengontrol lampu dengan modul ESP32-C3 secara wireless dengan menggunakan koneksi WiFi.
 
 ---
 
