@@ -28,9 +28,9 @@ Neo Controller adalah sebuah project IoT sederhana yang berfungsi untuk mengontr
 
 **Components**
 
-* Esp32-C3
-* Led 3v
-* Resistor 220Ω-1kΩ
+* Esp32-C3 
+* Led 3v 3x
+* Resistor 220Ω-1kΩ 3x
 
 ---
 
